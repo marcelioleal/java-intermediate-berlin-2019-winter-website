@@ -1,28 +1,32 @@
 const teachers = {
-    'Maciej': {
-        name: 'Maciej Walkowiak',
-        avatar: 'https://pbs.twimg.com/profile_images/453170120819351552/HzuP1CoL_400x400.jpeg',
+    'Michele': {
+        name: 'Michele Palmia',
+        avatar: 'https://pbs.twimg.com/profile_images/699943284580466688/x-0T9IuD_400x400.jpg',
         twitter: '@maciejwalkowiak'
     },
-    'Andrey': {
-        name: 'Andrey Panov',
-        avatar: '/andrey.png'
+    'Renato': {
+        name: 'Renato',
+        avatar: 'https://ui-avatars.com/api/?name=R&size=100'
     },
-    'Heeeun': {
-        name: 'Heeeun Lim',
-        avatar: '/heeun.png'
+    'Rahul': {
+        name: 'Rahul',
+        avatar: 'https://ui-avatars.com/api/?name=R&size=100'
     },
-    'Anca': {
-        name: 'Anca Todirica',
-        avatar: '/anca.png'
+    'Ahmad': {
+        name: 'Ahmad',
+        avatar: 'https://ui-avatars.com/api/?name=A&size=100'
     },
-    'Hadeer': {
-        name: 'Hadeer Nabil',
-        avatar: '/hadeer.jpg'
+    'Saeed': {
+        name: 'Saeed',
+        avatar: 'https://ui-avatars.com/api/?name=S&size=100'
     },
-    'Juan': {
-        name: 'Juan',
-        avatar: 'https://ui-avatars.com/api/?name=J+K&size=100'
+    'Toto': {
+        name: 'Toto',
+        avatar: 'https://ui-avatars.com/api/?name=T&size=100'
+    },
+    'Alina': {
+        name: 'Alina',
+        avatar: 'https://ui-avatars.com/api/?name=A&size=100'
     }
 }
 

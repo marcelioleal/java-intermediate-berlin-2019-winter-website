@@ -1,6 +1,6 @@
-# 03 - String Operations
+# 03 - Preject and String Operations
 
-<Teacher name="Heeeun"></Teacher>
+<Teacher name="Ahmad"></Teacher>
 
 ## Goals
 

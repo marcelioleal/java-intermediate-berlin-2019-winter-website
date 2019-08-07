@@ -1,6 +1,6 @@
 # 02 - Introduction to Git
 
-<Teacher name="Andrey"></Teacher>
+<Teacher name="Rahul"></Teacher>
 
 ## Goals
 
