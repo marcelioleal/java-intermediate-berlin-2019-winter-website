@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Intermediate Java',
+  title: 'Intermediate Java - Fall 2019',
   description: 'Just playing around',
   themeConfig: {
     title: 'Redi School Intermediate Java',
