@@ -55,7 +55,8 @@ Same exercises as on the slides, copied here for convenience.
 
 Write the method _squares_ that for X and Y given by arguments prints the square of each number between X and Y.
 
-```square(1,3)
+```
+square(1,3)
 > 1 - 1
 > 2 - 4
 > 3 - 9
@@ -70,7 +71,8 @@ square(5,6)
 In german, nouns ending with e are almost always feminine. Write a method _isFeminineNoun_ that checks if the provided word ends with e or not.
 
 
-```isFeminineNoun("Katze")
+```
+isFeminineNoun("Katze")
 > true
 
 isFeminineNoun("Hund")
@@ -83,7 +85,8 @@ Bonus: can you also make sure the method also catches words ending in _-ung_? Th
 
 Let’s assume a freelancer has to pay insurance and income tax. Let’s assume insurance is fixed at 300€, while income tax is 9% for incomes of less than 1000€ (after insurance payment), and 21% otherwise.
 
-``` inPocket(5000)
+```
+inPocket(5000)
 > 3713
 
 inPocket
@@ -111,6 +114,6 @@ M
 
 ## Additional Resources
 
-- The Java Tutorials (from Oracle) - https://docs.oracle.com/javase/tutorial/
+- [The Java Tutorials (from Oracle)](https://docs.oracle.com/javase/tutorial/)
 - [W3Schools Java Tutorial](https://www.w3schools.com/java/)
-- O'Reilly Programming Podcasts - https://www.oreilly.com/topics/oreilly-programming-podcast
+- [O'Reilly Programming Podcasts](https://www.oreilly.com/topics/oreilly-programming-podcast)
