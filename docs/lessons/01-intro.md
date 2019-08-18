@@ -13,7 +13,7 @@
 
 ## Slides
 
-<GoogleSlides src="https://docs.google.com/presentation/d/1pYFYnzWbZIh74X8k15qF4ij01lKnsZJfGyYI5V0ZpDs/edit#slide=id.gcb9a0b074_1_140/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
+<GoogleSlides src="https://docs.google.com/presentation/d/1pYFYnzWbZIh74X8k15qF4ij01lKnsZJfGyYI5V0ZpDs/embed?start=false&loop=false&delayms=3000&slide=id.gcb9a0b074_1_0"></GoogleSlides>
 
 ## Java Basics Recap
 
