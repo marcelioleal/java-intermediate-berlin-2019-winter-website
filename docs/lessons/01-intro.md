@@ -55,7 +55,7 @@ Same exercises as on the slides, copied here for convenience.
 
 Write the method _squares_ that for X and Y given by arguments prints the square of each number between X and Y.
 
-```
+```java
 square(1,3)
 > 1 - 1
 > 2 - 4
@@ -65,6 +65,17 @@ square(5,6)
 > 5 - 25
 > 6 - 36
 ```
+
+<Solution>
+```java
+private static void squares(int x, int y) {
+    for (int i = x; i < y; i++) {
+        System.out.println(i + " - " + (i * i));
+    }
+}
+```
+</Solution>
+
 
 ### Exercise 2
 
@@ -81,18 +92,49 @@ isFeminineNoun("Hund")
 
 Bonus: can you also make sure the method also catches words ending in _-ung_? Those are also feminine.
 
+<Solution>
+```java
+private static void isFeminineNoun(String noun) {
+    boolean isFeminine = noun.endsWith("e");
+    System.out.println(isFeminine);
+}
+
+private static void isFeminineNounExpanded(String noun) {
+    boolean isFeminine = noun.endsWith("e") || noun.endsWith("ung");
+    System.out.println(isFeminine);
+}
+```
+</Solution>
+
 ### Exercise 3
 
 Let’s assume a freelancer has to pay insurance and income tax. Let’s assume insurance is fixed at 300€, while income tax is 9% for incomes of less than 1000€ (after insurance payment), and 21% otherwise.
 
-```
+```java
 inPocket(5000)
 > 3713
 
-inPocket
+inPocket(1000)
 > 637
 ```
 
+<Solution>
+```java
+private static void inPocket(int wage) {
+    int afterInsurance = wage - 300;
+    double taxation;
+
+    if (afterInsurance > 1000) {
+        taxation = afterInsurance * 0.21;
+    } else {
+        taxation = afterInsurance * 0.09;
+    }
+
+    double afterTaxes = afterInsurance - taxation;
+    System.out.println(afterTaxes);
+}
+```
+</Solution>
 
 ## Homework
 
@@ -111,6 +153,25 @@ XYXY
 XYXYX
 M
 ```
+
+<Solution>
+```java
+private static void tree (int height) {
+    if (height < 3) {
+        System.out.println("A tree must have a height of at least 3");
+    }
+
+    System.out.println("I");
+    String treeLine = "X";
+    int effectiveHeight = height - 2;
+    for (int i=0; i< effectiveHeight; i++) {
+        treeLine += (i%2 == 0) ? "Y" : "X";
+        System.out.println(treeLine);
+    }
+    System.out.println("M");
+}
+```
+</Solution>
 
 ## Additional Resources
 
