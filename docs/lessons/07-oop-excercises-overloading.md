@@ -1,16 +1,16 @@
-# 07 - OOP Exercises & Method overloading
+# 07 - OOP Exercises & Overloading
 
 <Teacher name="Renato"></Teacher>
 
 ## Goals
 
-- Questions? Let's address any dobut on the excercises!
+- Questions? Let's address doubts on previous excercise(s)!
 - More exercises
 - Common issues
-- Rules versus convention
-- Introduction to method overloading
+- A note about Java conventions
+- Introduction to Overloading with examples
 - More exercises
-- Why we need hineritance
+- Why we need Inheritance? 
 
 ## Slides
 
