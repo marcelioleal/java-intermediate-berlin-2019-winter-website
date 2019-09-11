@@ -11,14 +11,16 @@
 - More exercises
 - Why we need Inheritance? 
 
-## Slides
+## OOP Slides
 
 <GoogleSlides src="https://docs.google.com/presentation/d/e/2PACX-1vSrl2PmIryZtrDYlm02THVxkbSDo_8d8YCz2cvNS-uUUEtRcYcTVtKgswwmHF1i5Fw0IatI-kH79NSW/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
 ## Resources
 
+Java code conventions (Oracle) https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
 Java naming conventions https://www.javatpoint.com/java-naming-conventions
 Java method overloading https://beginnersbook.com/2013/05/method-overloading/
+Java constructor overloading https://beginnersbook.com/2013/05/constructor-overloading/
 
 ## Review Exercises 
  
