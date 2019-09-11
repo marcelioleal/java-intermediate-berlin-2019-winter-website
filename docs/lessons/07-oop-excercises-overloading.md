@@ -5,7 +5,7 @@
 ## Goals
 
 - Questions? Let's address doubts on previous exercise(s)!
-- More exercises and classommon issues
+- More exercises and common issues
 - Java conventions
 - Introduction to Overloading
 - More exercises
