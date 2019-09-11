@@ -17,10 +17,10 @@
 
 ## Resources
 
-Java code conventions (Oracle) https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
-Java naming conventions https://www.javatpoint.com/java-naming-conventions
-Java method overloading https://beginnersbook.com/2013/05/method-overloading/
-Java constructor overloading https://beginnersbook.com/2013/05/constructor-overloading/
+- Java code conventions (Oracle) https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+- Java naming conventions https://www.javatpoint.com/java-naming-conventions
+- Java method overloading https://beginnersbook.com/2013/05/method-overloading/
+- Java constructor overloading https://beginnersbook.com/2013/05/constructor-overloading/
 
 ## Review Exercises 
  
@@ -49,18 +49,18 @@ Add specific truck attributes to the Truck class.
 ### Homework 1
 
 You are looking for a new apartment in Berlin.
-Create a class Address that will have the street, number, zipCode and city as attributes
-Create a constructor that have as parameters all the attributes of the Address.
-Create a class Apartment that will contain the following attributes: numberOfRooms, numberOfBathrooms, hasTerace, hasKeller, surface, isAvailable, address.
-The attributes hasTerrace, hasKeller and isAvailable are boolean values
-Create a constructor that have as parameters all the attributes of the apartment.
-Create a method that prints all the attributes of the appartment, including the address.
-In the main method of a different class create 3 apartments and print in the console the characteristics of the apartment
+- Create a class Address that will have the street, number, zipCode and city as attributes
+- Create a constructor that have as parameters all the attributes of the Address.
+- Create a class Apartment that will contain the following attributes: numberOfRooms, numberOfBathrooms, hasTerace, hasKeller, surface, isAvailable, address.
+- The attributes hasTerrace, hasKeller and isAvailable are boolean values
+- Create a constructor that have as parameters all the attributes of the apartment.
+- Create a method that prints all the attributes of the appartment, including the address.
+- In the main method of a different class create 3 apartments and print in the console the characteristics of the apartment
 
 ### Homework 2
 
-Let's go back to our Robot exercise!
+- Let's go back to our Robot exercise!
 
-There are three different types of robots: robots that can fly, robot that can run and robot that can swim. Each one of them can only do one activity: running, swimming or flying. Extend your Robot class to support them and make sure that they have a method to fly, run or swim a given distance. How can you approach the problem? Should all robots have a fly(int distance) method?
+- There are three different types of robots: robots that can fly, robot that can run and robot that can swim. Each one of them can only do one activity: running, swimming or flying. Extend your Robot class to support them and make sure that they have a method to fly, run or swim a given distance. How can you approach the problem? Should all robots have a fly(int distance) method?
 
 
