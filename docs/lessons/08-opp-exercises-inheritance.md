@@ -15,6 +15,8 @@
 
 <GoogleSlides src="https://docs.google.com/presentation/d/1t7k0-o_S9Z-Rqg33MBOeYQe_lf5QDAunnfyrPPhWJe0/embed?start=false&loop=false&delayms=3000"></GoogleSlides>
 
+https://docs.google.com/presentation/d/1t7k0-o_S9Z-Rqg33MBOeYQe_lf5QDAunnfyrPPhWJe0/edit#slide=id.g600867f478_0_91
+
 
 ## Review Exercises 
  
